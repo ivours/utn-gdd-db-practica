@@ -1,7 +1,7 @@
 # UTN - DB Practica GDD dockerizada
 
 Conjunto de scripts que permiten:
-- Descargarse una de docker base con MSSQL.
+- Descargarse una imagen de docker base con MSSQL.
 - Inicializar la DB con los datos que provee la cátedra para poder realizar la práctica.
 - Conectarse a la DB para hacer consultas en modo interactivo o bien hacer consultas enviando queries por parametro a sqlcmd.
 
